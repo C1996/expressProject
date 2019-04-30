@@ -1,0 +1,24 @@
+{
+  "name": "express-demo",
+  "version": "1.0.0",
+  "description": "exprss demo",
+  "main": "index.js",
+  "author": "wenchei",
+  "scripts": {
+    "start": "node ./app.js"
+  },
+  "dependencies": {
+    "body-parser": "^1.19.0",
+    "express": "^4.16.4",
+    "mongoose": "^5.5.4"
+  },
+  "devDependencies": {
+    "eslint": "^5.16.0",
+    "eslint-config-standard": "^12.0.0"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/C1996/expressProject/express-demo.git"
+  },
+  "license": "ISC"
+}
